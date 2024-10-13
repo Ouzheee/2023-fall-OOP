@@ -1,0 +1,124 @@
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+
+
+===========BATTLE 1===============
+
+=== Monster Stats ===
+Name: Harpy
+Health: 15
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+HERO attacks for 20 damage!
+Harpy takes 20 damage!
+Harpy has been defeated!
+HERO gains 7 experience!
+
+=== Monster Stats ===
+Name: Harpy
+Health: 0
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 7
+Attack damage: 20
+===================
+
+=======================================
+
+
+===========BATTLE 2===============
+
+=== Monster Stats ===
+Name: Goblin
+Health: 15
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 7
+Attack damage: 20
+===================
+
+HERO attacks for 20 damage!
+Goblin takes 20 damage!
+Goblin has been defeated!
+HERO gains 7 experience!
+
+=== Monster Stats ===
+Name: Goblin
+Health: 0
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 14
+Attack damage: 20
+===================
+
+=======================================
+
+
+===========BATTLE 3===============
+
+=== Monster Stats ===
+Name: Ogre
+Health: 15
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 14
+Attack damage: 20
+===================
+
+HERO attacks for 20 damage!
+Ogre takes 20 damage!
+Ogre has been defeated!
+HERO gains 7 experience!
+HERO levels up to level 2!
+
+=== Monster Stats ===
+Name: Ogre
+Health: 0
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 140
+Level: 2
+Experience: 21
+Attack damage: 40
+===================
+
+=======================================

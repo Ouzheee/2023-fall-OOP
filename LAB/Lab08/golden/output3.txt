@@ -1,0 +1,102 @@
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+===========BATTLE 1===============
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 80
+=====================
+
+HERO attacks for 20 damage!
+Sorcerer takes 20 damage!
+Sorcerer attacks for 15 damage!
+HERO takes 15 damage!
+
+=== Player Stats ===
+Name: HERO
+Health: 85
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 60
+=====================
+
+HERO attacks for 20 damage!
+Sorcerer takes 20 damage!
+Sorcerer attacks for 15 damage!
+HERO takes 15 damage!
+
+=== Player Stats ===
+Name: HERO
+Health: 70
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 40
+=====================
+
+HERO attacks for 20 damage!
+Sorcerer takes 20 damage!
+Sorcerer attacks for 15 damage!
+HERO takes 15 damage!
+
+=== Player Stats ===
+Name: HERO
+Health: 55
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 20
+=====================
+
+HERO attacks for 20 damage!
+Sorcerer takes 20 damage!
+Sorcerer has been defeated!
+HERO gains 40 experience!
+HERO levels up to level 2!
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 0
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 95
+Level: 2
+Experience: 40
+Attack damage: 40
+===================
+

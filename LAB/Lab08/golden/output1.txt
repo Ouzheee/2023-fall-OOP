@@ -1,0 +1,102 @@
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+
+
+===========BATTLE 1===============
+
+=== Monster Stats ===
+Name: Goblin
+Health: 15
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+HERO attacks for 20 damage!
+Goblin takes 20 damage!
+Goblin has been defeated!
+HERO gains 7 experience!
+
+=== Monster Stats ===
+Name: Goblin
+Health: 0
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 7
+Attack damage: 20
+===================
+
+=======================================
+
+
+===========BATTLE 2===============
+HERO restores 50 health!
+
+=== Monster Stats ===
+Name: Ancient Dragon
+Health: 100
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 150
+Level: 1
+Experience: 7
+Attack damage: 20
+===================
+
+HERO attacks for 20 damage!
+Ancient Dragon takes 20 damage!
+
+=== Monster Stats ===
+Name: Ancient Dragon
+Health: 80
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 150
+Level: 1
+Experience: 7
+Attack damage: 20
+===================
+
+Ancient Dragon attacks for 200 damage!
+HERO takes 200 damage!
+HERO has been defeated!
+
+=== Monster Stats ===
+Name: Ancient Dragon
+Health: 80
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 0
+Level: 1
+Experience: 7
+Attack damage: 20
+===================
+
+=======================================

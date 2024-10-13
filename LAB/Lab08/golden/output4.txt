@@ -1,0 +1,382 @@
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+===========BATTLE 1===============
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 50
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 100
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+HERO attacks for 20 damage!
+Sorcerer takes 20 damage!
+Sorcerer attacks for 15 damage!
+HERO takes 15 damage!
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 30
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 85
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+HERO attacks for 20 damage!
+Sorcerer takes 20 damage!
+Sorcerer attacks for 15 damage!
+HERO takes 15 damage!
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 10
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 70
+Level: 1
+Experience: 0
+Attack damage: 20
+===================
+
+HERO attacks for 20 damage!
+Sorcerer takes 20 damage!
+Sorcerer has been defeated!
+HERO gains 25 experience!
+HERO levels up to level 2!
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 0
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 110
+Level: 2
+Experience: 25
+Attack damage: 40
+===================
+
+=======================================
+===========BATTLE 2===============
+
+=== Monster Stats ===
+Name: Ogre
+Health: 100
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 110
+Level: 2
+Experience: 25
+Attack damage: 40
+===================
+
+HERO attacks for 40 damage!
+Ogre takes 40 damage!
+Ogre attacks for 20 damage!
+HERO takes 20 damage!
+
+=== Monster Stats ===
+Name: Ogre
+Health: 60
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 90
+Level: 2
+Experience: 25
+Attack damage: 40
+===================
+
+HERO attacks for 40 damage!
+Ogre takes 40 damage!
+Ogre attacks for 20 damage!
+HERO takes 20 damage!
+
+=== Monster Stats ===
+Name: Ogre
+Health: 20
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 70
+Level: 2
+Experience: 25
+Attack damage: 40
+===================
+
+HERO attacks for 40 damage!
+Ogre takes 40 damage!
+Ogre has been defeated!
+HERO gains 50 experience!
+
+=== Monster Stats ===
+Name: Ogre
+Health: 0
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 70
+Level: 2
+Experience: 75
+Attack damage: 40
+===================
+
+=======================================
+===========BATTLE 3===============
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 120
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 70
+Level: 2
+Experience: 75
+Attack damage: 40
+===================
+
+HERO attacks for 40 damage!
+Sorcerer takes 40 damage!
+Sorcerer attacks for 30 damage!
+HERO takes 30 damage!
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 80
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 40
+Level: 2
+Experience: 75
+Attack damage: 40
+===================
+
+HERO attacks for 40 damage!
+Sorcerer takes 40 damage!
+Sorcerer attacks for 30 damage!
+HERO takes 30 damage!
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 40
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 10
+Level: 2
+Experience: 75
+Attack damage: 40
+===================
+
+HERO attacks for 40 damage!
+Sorcerer takes 40 damage!
+Sorcerer has been defeated!
+HERO gains 60 experience!
+HERO levels up to level 3!
+
+=== Monster Stats ===
+Name: Sorcerer
+Health: 0
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 70
+Level: 3
+Experience: 135
+Attack damage: 60
+===================
+
+=======================================
+===========BATTLE 4===============
+
+=== Monster Stats ===
+Name: Goblin
+Health: 150
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 70
+Level: 3
+Experience: 135
+Attack damage: 60
+===================
+
+HERO attacks for 60 damage!
+Goblin takes 60 damage!
+Goblin attacks for 15 damage!
+HERO takes 15 damage!
+
+=== Monster Stats ===
+Name: Goblin
+Health: 90
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 55
+Level: 3
+Experience: 135
+Attack damage: 60
+===================
+
+HERO attacks for 60 damage!
+Goblin takes 60 damage!
+Goblin attacks for 15 damage!
+HERO takes 15 damage!
+
+=== Monster Stats ===
+Name: Goblin
+Health: 30
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 40
+Level: 3
+Experience: 135
+Attack damage: 60
+===================
+
+HERO attacks for 60 damage!
+Goblin takes 60 damage!
+Goblin has been defeated!
+HERO gains 75 experience!
+HERO levels up to level 4!
+
+=== Monster Stats ===
+Name: Goblin
+Health: 0
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 120
+Level: 4
+Experience: 210
+Attack damage: 80
+===================
+
+=======================================
+===========BATTLE 5===============
+
+=== Monster Stats ===
+Name: Ancient Dragon
+Health: 200
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 120
+Level: 4
+Experience: 210
+Attack damage: 80
+===================
+
+HERO attacks for 80 damage!
+Ancient Dragon takes 80 damage!
+Ancient Dragon attacks for 50 damage!
+HERO takes 50 damage!
+
+=== Monster Stats ===
+Name: Ancient Dragon
+Health: 120
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 70
+Level: 4
+Experience: 210
+Attack damage: 80
+===================
+
+HERO attacks for 80 damage!
+Ancient Dragon takes 80 damage!
+Ancient Dragon attacks for 50 damage!
+HERO takes 50 damage!
+
+=== Monster Stats ===
+Name: Ancient Dragon
+Health: 40
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 20
+Level: 4
+Experience: 210
+Attack damage: 80
+===================
+
+HERO attacks for 80 damage!
+Ancient Dragon takes 80 damage!
+Ancient Dragon has been defeated!
+HERO gains 100 experience!
+
+=== Monster Stats ===
+Name: Ancient Dragon
+Health: 0
+=====================
+
+
+=== Player Stats ===
+Name: HERO
+Health: 20
+Level: 4
+Experience: 310
+Attack damage: 80
+===================
+
+=======================================
